@@ -1,3 +1,14 @@
+---
+doc_id: python-intro
+id: python-intro
+title: Giới thiệu Ngôn ngữ Lập trình Python
+source_url: https://internal.hust.edu.vn/docs/python-intro
+retrieved_at: 2026-08-03
+document_version: "1.0"
+audience: student
+category: programming
+---
+
 Python là một ngôn ngữ lập trình bậc cao được sử dụng rộng rãi cho tự động hóa, dịch vụ backend, phân tích dữ liệu, tính toán khoa học, và học máy. Các nhóm thường chọn Python vì ngôn ngữ này nhấn mạnh tính dễ đọc, có rào cản tiếp cận thấp đối với lập trình viên mới, và cung cấp các công cụ trưởng thành cho việc tạo nguyên mẫu nhanh chóng.
 
 Trong môi trường thực tế (production), Python thường được dùng để xây dựng API, luồng dữ liệu (data pipelines), công cụ nội bộ, và các lớp phục vụ mô hình (model-serving layers). Các framework phổ biến như FastAPI, Django, và Flask giúp việc phơi bày logic ứng dụng qua HTTP trở nên thực tế, trong khi các thư viện như pandas và NumPy hỗ trợ chuẩn bị dữ liệu và quy trình làm việc tính toán số. Hệ sinh thái rộng lớn này cho phép các nhóm kỹ sư chuyển từ thử nghiệm sang triển khai mà không cần đổi ngôn ngữ.

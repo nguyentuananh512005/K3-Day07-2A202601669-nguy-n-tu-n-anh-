@@ -1,0 +1,15 @@
+doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
+quy-che-dao-tao-tin-chi,data/quy-che-dao-tao-tin-chi.md,Quy chế Đào tạo Đại học theo Hệ thống Tín chỉ Đại học Bách khoa Hà Nội,https://ctt-daotao.hust.edu.vn/quy-che-dao-tao-tin-chi,2026-08-03,2025.1,public-hust-page
+huong-dan-dang-ky-hoc-phan,data/huong-dan-dang-ky-hoc-phan.md,Hướng dẫn Quy trình Đăng ký Học phần trên Hệ thống SIS Đại học Bách khoa Hà Nội,https://ctt-daotao.hust.edu.vn/huong-dan-dang-ky-hoc-phan,2026-08-03,2026.1,public-hust-page
+quy-dinh-hoc-phi,data/quy-dinh-hoc-phi.md,Quy định Định mức Thời hạn và Phương thức Thanh toán Học phí Đại học Bách khoa Hà Nội,https://ctt-daotao.hust.edu.vn/quy-dinh-hoc-phi,2026-08-03,2025-2026,public-hust-page
+hoc-bong-khuyen-khich-hoc-tap,data/hoc-bong-khuyen-khich-hoc-tap.md,Quy định Xét cấp Học bổng Khuyến khích Học tập Sinh viên Đại học Bách khoa Hà Nội,https://ctt-daotao.hust.edu.vn/hoc-bong-khuyen-khich-hoc-tap,2026-08-03,2025.2,public-hust-page
+hoc-bong-tran-dai-nghia,data/hoc-bong-tran-dai-nghia.md,Chính sách Học bổng Hỗ trợ Sinh viên Hoàn cảnh Khó khăn Trần Đại Nghĩa HUST,https://ctt-daotao.hust.edu.vn/hoc-bong-tran-dai-nghia,2026-08-03,2025-2026,public-hust-page
+quy-dinh-thu-vien-ta-quang-buu,data/quy-dinh-thu-vien-ta-quang-buu.md,Quy định Phục vụ và Nội quy Sử dụng Thư viện Tạ Quang Bửu Đại học Bách khoa Hà Nội,https://library.hust.edu.vn/quy-dinh-su-dung,2026-08-03,2025.1,public-hust-page
+noi-quy-ky-tuc-xa,data/noi-quy-ky-tuc-xa.md,Nội quy Cư trú và Quản lý An ninh Trật tự Ký túc xá Đại học Bách khoa Hà Nội,https://ktx.hust.edu.vn/noi-quy-luu-tru,2026-08-03,2025-2026,public-hust-page
+k3-course-registration,data/k3_university/course-registration.md,Đăng ký học phần,https://ctt-daotao.hust.edu.vn/hoc-vu/dang-ky-hoc-phan,2026-08-02,2026.1,public-hust-page
+k3-library-services,data/k3_university/library-services.md,Dịch vụ thư viện,https://library.hust.edu.vn/dich-vu,2026-08-02,2026.1,public-hust-page
+chunking-experiment-report,data/chunking_experiment_report.md,Báo cáo Thử nghiệm Chia nhỏ văn bản (Chunking Experiment Report),https://internal.hust.edu.vn/reports/chunking-experiment,2026-08-03,1.0,team-owned
+rag-system-design,data/rag_system_design.md,Thiết kế Hệ thống RAG cho Trợ lý Tri thức Nội bộ,https://internal.hust.edu.vn/architecture/rag-design,2026-08-03,1.0,team-owned
+vector-store-notes,data/vector_store_notes.md,Ghi chú về Vector Store,https://internal.hust.edu.vn/notes/vector-store,2026-08-03,1.0,team-owned
+vi-retrieval-notes,data/vi_retrieval_notes.md,Ghi chú về Retrieval cho Trợ lý Tri thức Nội bộ,https://internal.hust.edu.vn/notes/vi-retrieval,2026-08-03,1.0,team-owned
+python-intro,data/python_intro.txt,Giới thiệu Ngôn ngữ Lập trình Python,https://internal.hust.edu.vn/docs/python-intro,2026-08-03,1.0,team-owned
